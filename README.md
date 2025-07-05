@@ -4,7 +4,7 @@ A simple and minimalist launcher for Minecraft.
 
 ## Download
 
-Go to [releases](https://github.com/sammwy/minilaunch/releases) to download the latest version.
+Go to [releases](https://github.com/sammwyy/MiniLaunch/releases) to download the latest version.
 
 ## Usage
 
